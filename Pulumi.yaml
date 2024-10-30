@@ -1,0 +1,4 @@
+name: grafana-stack
+runtime: nodejs
+description: Example of a Kubernetes Stateless Application Deployment, using Nginx
+template:
